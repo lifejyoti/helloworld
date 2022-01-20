@@ -1,1 +1,3 @@
-# helloworld jashan
+# helloworld 
+I would like to accomplish in webdesign: 
+I want to do serious coding like HTMl and CSS and javascript.Before taken this course:I don't know much about the website making stuff.There are lot more than just writing code.It involves so many steps like understanding the clients problems ,make a design ,planning ,executing , closing .So much to learn and apply.I would like to improve my listening power and communications skills.
